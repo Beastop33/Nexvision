@@ -1,5 +1,7 @@
 Vision Assistant
 
+# Imprtant ADD YOUR GEMINI API OCR.py
+
 Vision Assistant is a real-time object detection and OCR (Optical Character Recognition) system designed to assist visually impaired users or anyone needing visual context. It uses WebRTC for video streaming, YOLO for object detection, and Google's Gemini API for OCR, with a client-server architecture.
 Features
 
@@ -31,8 +33,8 @@ Prerequisites
 Installation
 1. Clone the Repository
 bash
-git clone https://github.com/username/vision-assistant.git
-cd vision-assistant
+git clone https://github.com/Beastop33/Nexvision.git
+cd NexVision
 2. Set Up Python Environment
 
 Install Python dependencies:
