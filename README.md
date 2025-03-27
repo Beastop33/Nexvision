@@ -1,4 +1,4 @@
-# Vision Assistant
+# NexVision Vision Assistant
 
 Important ADD YOUR GEMINI API ocr.py
 
