@@ -1,0 +1,9 @@
+opencv-python==4.10.0.84      # For image processing in detector.py (cv2)
+torch==2.4.0                  # PyTorch for YOLO model in detector.py
+ultralytics==8.2.0            # YOLOv8/YOLOv10 implementation
+numpy==1.26.4                 # Array manipulation in detector.py
+fastapi==0.115.0              # FastAPI framework for both detector.py and ocr.py
+uvicorn==0.30.6               # ASGI server to run FastAPI apps
+pillow==10.4.0                # Image handling (PIL) in both detector.py and ocr.py
+google-generativeai==0.8.2    # Google Gemini API for OCR in ocr.py
+python-multipart==0.0.9       # For handling file uploads in FastAPI
