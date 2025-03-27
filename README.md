@@ -1,6 +1,6 @@
 # Vision Assistant
 
-Imprtant ADD YOUR GEMINI API OCR.py
+Important ADD YOUR GEMINI API ocr.py
 
 Vision Assistant is a real-time object detection and OCR (Optical Character Recognition) system designed to assist visually impaired users or anyone needing visual context. It uses WebRTC for video streaming, YOLO for object detection, and Google's Gemini API for OCR, with a client-server architecture.
 Features
